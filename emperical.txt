@@ -1,0 +1,20 @@
+Imperitive Languages:
+	Rust
+
+Functional Languages:
+	Scala
+
+Object Oriented:
+	Java
+	Python
+
+
+Python:
+	regular expressions(re)
+Java:
+	regular expressions(regex)
+Scala:
+	match
+Rust:
+	match
+	
