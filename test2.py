@@ -1,6 +1,6 @@
 import pickle
 
-lang = "rust"
+lang = "scala"
 file = lang+".txt"
 num = 0
 
