@@ -18,3 +18,7 @@ Scala:
 Rust:
 	match
 	
+
+Questions:
+	1. What are the different pattern matching constructs in few languages and how often are they used in the top programs on GitHub?
+	2. Whether pattern matching is used more in functional languages as compared to others?
